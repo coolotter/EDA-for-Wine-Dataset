@@ -1,7 +1,7 @@
 # Project-1-ND
 
 #Motivation
-Applying CRISP-DM process to chemistry data.
+Applying CRISP-DM process to winedataset
 
 #Prerequisites
 To view this project properly, you're recommended to have the latest versions of the followings:
@@ -14,4 +14,4 @@ To view this project properly, you're recommended to have the latest versions of
 * [scikit-learn](https://scikit-learn.org/stable/)
 
 #Project Summary
-Refer to the medium post for result. UV spectra were collected with an average scanning time of 0.0125 s, a data interval of 5.00 nm and a scan rate of 400 nm/s. 
+EDA using PCA
