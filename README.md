@@ -1,8 +1,9 @@
-# Project-1-ND
+# Exploratory Data Analysis for Wine Dataset
 
 # Motivation
-Exploratory data analysis (EDA) on winedataset usng CRIPS-DM process. 
+Exploratory data analysis (EDA) is one of the most crucial part in data science, yet it is often overlook. Yes, algorithm is fun, but we need to look closely to our data in order to derive important insights 
 
+Here, I have provided an example of EDA on a famous dataset: wine quality dataset. This dataset can be found here: https://archive.ics.uci.edu/ml/datasets/wine+quality. We can get essential information regarding our data prior to analysis
 # Prerequisites
 To view this project properly, you're recommended to have the latest versions of the followings:
 * [Python 3](https://www.python.org/downloads/)
@@ -12,6 +13,11 @@ To view this project properly, you're recommended to have the latest versions of
 * [Matplotlib](https://matplotlib.org)
 * [Seaborn](https://seaborn.pydata.org)
 
+# Files
+In this repo, there is only one file:
+- winedataset.ipynb
+
+The file contains all the code ran for the project and some notes. 
 
 # Project Summary
 Here we are trying to derive some insights from our dataset just by using EDA. We will try to answer the following questions:
