@@ -3,7 +3,7 @@
 # Motivation
 Exploratory data analysis (EDA) is one of the most crucial part in data science, yet it is often overlook. Yes, algorithm is fun, but we need to look closely to our data in order to derive important insights 
 
-Here, I have provided an example of EDA on a famous dataset: wine quality dataset. This dataset can be found here: https://archive.ics.uci.edu/ml/datasets/wine+quality. We can get essential information regarding our data prior to analysis
+Here, I have provided an example of EDA on a famous dataset: wine quality dataset. This dataset can be found here: https://archive.ics.uci.edu/ml/datasets/wine+quality. We can get essential information regarding our data prior to analysis. Hopefully this will be useful for current and future lab group members.
 # Prerequisites
 To view this project properly, you're recommended to have the latest versions of the followings:
 * [Python 3](https://www.python.org/downloads/)
